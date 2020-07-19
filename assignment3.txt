@@ -1,0 +1,5 @@
+Assignment date-17 july
+1.difference betweem em and rem?
+
+em	Relative to the font-size of the element (2em means 2 times the size of the current font)
+rem     The rem unit sets the font-size relative to the browsers base font-size, and will not inherit from its parents.
